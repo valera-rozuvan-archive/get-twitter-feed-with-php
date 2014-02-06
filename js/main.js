@@ -26,8 +26,8 @@
         function onReady() {
             $.get('get_feed.php',
                 {
-                    'screen_name': 'ValeraRozuvan',
-                    'count': 5
+                    screen_name: 'ValeraRozuvan',
+                    count: 5
                 },
                 processResponse
             );
