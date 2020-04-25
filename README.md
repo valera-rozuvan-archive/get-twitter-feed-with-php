@@ -6,8 +6,9 @@ Get latest Twitter tweets with PHP.
 Dependencies
 ------------
 
-1. [Twitter-API-PHP](http://github.com/j7mbo/twitter-api-php) - PHP library to
-work with Twitter API v1.1.
+1. PHP version 5.3.x.
+2. [Twitter-API-PHP](http://github.com/j7mbo/twitter-api-php) - PHP library to
+work with Twitter API v1.1. Included in this repo.
 
 Configuration
 -------------
